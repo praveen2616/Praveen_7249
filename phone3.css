@@ -1,0 +1,27 @@
+@media only screen and (min-width: 601px) {
+	h1.a{
+		height: 50px;
+		color: indigo;s
+		margin-top: 25px;
+	}
+	div.b1{
+		color: indigo;
+	}
+	div.b2{
+		color: indigo;
+		width: 30%;
+		text-decoration: underline;
+	}
+	a.b3{
+		color: indigo;
+        font-size: 16px;
+        margin: 20px 5px 5px 5px;
+        display: flex;
+        flex: wrap;
+	}
+	div.c1{
+		width: 30%;
+		box-sizing: border-box;
+		margin-left: 15px;
+	}
+}

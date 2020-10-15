@@ -1,0 +1,30 @@
+@media only screen and (max-width: 478px) {
+ div.b{
+   margin-left: 4px;
+   margin-right: 4px;	
+ }
+  div.b1{
+  	width: 20%;
+  	font-size: 15px;
+  	color: blue;
+  }
+  div.b2{
+  	width: 30%;
+  	font-size: 15px;
+  	color: blue;
+  	text-decoration: underline;
+  }
+  a.b3{
+  	font-size: 12px;
+  	color: blue;
+  	margin: 22px 2px 1px 1px;
+  	box-sizing: border-box;
+   display: inline;
+  }
+  div.c1{
+  	box-sizing: border-box;
+  	margin: 30px;
+  	flex: wrap;
+    width: 80%;
+  }
+  

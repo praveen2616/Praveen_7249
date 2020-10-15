@@ -1,0 +1,32 @@
+@media only screen and (min-width: 1101px) {
+h1.a{
+		height: 60px;
+		text-align: center;
+		margin-top: 40px;
+		color: purple;
+	}
+	div.b1{
+		color: purple;
+		font-size: 25px;
+	}
+	div.b2{
+		color: purple;
+		width: 35%;
+		text-decoration: underline;
+		font-size: 25px;
+		margin-left: 20px;
+
+	}
+	a.b3{
+		color: purple;
+        font-size: 25px;
+        padding: 5px;
+        display: inline;
+        margin-top: 13px;
+	}
+	div.c1{
+		width: 24%;
+		box-sizing: border-box;
+		margin: 5px;
+	}
+}

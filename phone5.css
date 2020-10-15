@@ -1,0 +1,28 @@
+@media only screen and (min-width: 999px){
+	h1.a{
+		height: 60px;
+		text-align: center;
+		margin-top: 40px;
+		color: cyan;
+	}
+	div.b1{
+		color: cyan;
+		font-size: 25px;
+	}
+	div.b2{
+		color: cyan;
+		width: 30%;
+		text-decoration: underline;
+		font-size: 25px;
+		margin-left: 20px;
+
+	}
+	a.b3{
+		color: cyan;
+        font-size: 25px;
+        margin: 10px 7px 7px 7px;
+        display: flex;
+        flex: wrap;
+        padding: 10px;
+	}
+}

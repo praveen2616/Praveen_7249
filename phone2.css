@@ -1,0 +1,27 @@
+@media only screen and (min-width: 478px) {
+	div.b{
+		height: 50px;
+	}
+	div.b1{
+		font-size: 15px;
+		color: green;
+	}
+	div.b2{
+		font-size: 15px;
+		color: green;
+		width: 33%;
+		text-decoration: underline;
+	}
+	a.b3{
+		font-size: 15px;
+		color: green;
+		display: inline;
+		margin: 20px 2px 2px 2px;
+	}
+	div.c1{
+		width: 45%;
+		box-sizing: border-box;
+		margin-left: 10px;
+	}
+
+}
